@@ -1,5 +1,4 @@
 # Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning
-Data-Efficient Synchronous Machine Winding Short Circuit Faults Diagnosis Based on Frequency Response Analysis and Active Learning
 If you want to use related codes, you should cite the following work.
 @ARTICLE{10965843,
   author={Chen, Yu and Zhao, Zhongyong and Liu, Jiangnan and Wang, Wei and Yao, Chenguo},
